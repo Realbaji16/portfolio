@@ -13,7 +13,6 @@ const Header = () => {
          "Web Developer."
     ]
 
-    
     return (
         <>
         <div className='header-wrapper'>
@@ -34,7 +33,10 @@ const Header = () => {
            <HeaderSocials />
            <a href='#contact' className='scroll__down'>Scroll Down</a>
            </div>
+
+      
        </>
+    
     )
 }
 
