@@ -7,9 +7,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'About Me',
+    title: 'OBAJI COMMERCE',
     github: 'https://github.com',
-    demo: 'https://bajis-obajitheking.vercel.app/'
+    demo: 'https://emekacommerce-opal.vercel.app/'
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const data = [
   {
     id: 3,
     image: IMG1,
-    title: 'COMING SOON',
+    title: 'WANTA APP',
     github: 'https://github.com',
     demo: 'https://bajis-obajitheking.vercel.app/'
   }
